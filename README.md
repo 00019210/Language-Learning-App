@@ -19,7 +19,7 @@ Follow these steps to run the application on your machine:
 git clone https://github.com/00019210/Language-Learning-App.git
 
 # 2. Navigate to the project folder
-cd 
+cd Language-Learning-App
 
 # 3. Install dependencies
 npm install
@@ -45,7 +45,9 @@ uuid – Generates unique IDs for flashcards
 nodemon – Auto-restarts server during development (dev only)
 
 To install all dependencies, run:
+
 npm install
+npm i express express-validator pug body-parser nodemon
 
 🌐 Live App and Source Code
 
