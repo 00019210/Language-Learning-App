@@ -51,7 +51,7 @@ npm install
 
 🔗 GitHub Repository: https://github.com/00019210/Language-Learning-App
 
-🌍 Live App: https://language-learning-app-buwm.onrender.com
+🌍 Live App: https://language-learning-app-1-qxuw.onrender.com
 
 📁 Project Structure
 /Language Learning App
